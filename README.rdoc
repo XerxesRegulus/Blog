@@ -2,8 +2,5 @@
 
 A sample blog app for interns
 
-
-```Ruby
   'rails', '4.2.5'
   'sqlite3'
-```
